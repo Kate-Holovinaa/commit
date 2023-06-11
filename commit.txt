@@ -1,4 +1,0 @@
-1. puts "Hi!" 
-2. puts "Hello!"
-3. puts "Welcome!"
-4. puts "Ruby is best friends"
